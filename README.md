@@ -1,1 +1,1 @@
-# Heartstroke-Prediction-BY-VortextNish
+# Heartstroke-Prediction-BY-VortexNish

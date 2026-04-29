@@ -103,7 +103,7 @@ with tab1:
         else:
             st.success("🟢 Low Risk.")
 
-# ================= TAB 2 =================
+
 with tab2:
 
     st.subheader("📊 Patient Profile Radar")
@@ -123,7 +123,7 @@ with tab2:
     st.subheader("📈 Prediction History")
     st.line_chart(st.session_state.history)
 
-# ================= TAB 3 =================
+
 with tab3:
 
     st.subheader("📁 Export Report")
